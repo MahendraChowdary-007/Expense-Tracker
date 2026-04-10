@@ -1,4 +1,10 @@
-# Expense Tracker
+
+Live Demo: https://mahendrachowdary-007.github.io/Expense-Tracker/ 
+<br>
+
+GitHub repo: https://github.com/MahendraChowdary-007/Expense-Tracker
+
+## Expense Tracker
 
 A full-stack expense tracking application built with Node.js, Express, MongoDB, and React.
 
